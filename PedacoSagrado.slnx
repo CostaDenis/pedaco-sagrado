@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PedacoSagrado.Api/PedacoSagrado.Api.csproj" />
+  <Project Path="PedacoSagrado.Contracts/PedacoSagrado.Contracts.csproj" />
+  <Project Path="PedacoSagrado.Web/PedacoSagrado.Web.csproj" />
+</Solution>
